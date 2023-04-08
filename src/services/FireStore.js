@@ -1,6 +1,5 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore, doc, getDoc, addDoc, query, where, collection, getDocs, Timestamp  } from "firebase/firestore/lite";
-import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
     apiKey: "AIzaSyADsZqGMQDHt0u-MXFhXkBzjsyoB7Qlaxc",
@@ -17,7 +16,6 @@ const firebaseConfig = {
 
 
   const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
   const fireStoreDb = getFirestore(app);
 
 export default fireStoreDb;
