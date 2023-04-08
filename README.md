@@ -1,4 +1,28 @@
 
+# Wolf Informatica ReactJS App
+
+Esta aplicacion del emprendimiento Wolf Informatica se utiliza para el examen final del curso de ReactJS brindado por Coderhouse.
+
+Este Ecommerce esta enfocado en la venta de componentes informaticos y mantenimientos pretentivos/correctivos
+
+Tecnologias usadas:
+
+HTML
+CSS
+BOOTSTRAP
+FIREBASE
+JAVASCRIPT
+REACT-BOOTSTRAP
+REACTJS
+SWEETALERT2
+FIREBASE
+
+
+## Authors
+
+- [@Emiliano Galmarini](https://www.github.com/EGgames)
+
+
 ## Documentation
 
 Navbar = Componente que contiene los links para la navegación dentro de la app, el logo y el ícono del carrito.
