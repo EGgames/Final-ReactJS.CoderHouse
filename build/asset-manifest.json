@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/EGgames/Final-ReactJS.CoderHouse/static/css/main.cd411868.css",
+    "main.js": "/EGgames/Final-ReactJS.CoderHouse/static/js/main.c4ad7eda.js",
+    "static/js/787.a025d128.chunk.js": "/EGgames/Final-ReactJS.CoderHouse/static/js/787.a025d128.chunk.js",
+    "static/media/bg1.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/bg1.476e043b169d531f9ee3.webp",
+    "static/media/portada.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/portada.6649c5684732b285564f.webp",
+    "static/media/foto_carne.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/foto_carne.dc17da34f38a7edd4948.webp",
+    "static/media/about2.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/about2.38dd07d7a05672678f01.webp",
+    "static/media/about1.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/about1.b943d73e71db544c6b5f.webp",
+    "static/media/Componentes_venta.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/Componentes_venta.e68d946c3edebbf31b38.webp",
+    "static/media/gamerbasico.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/gamerbasico.0ec0409c17ef29ce0723.webp",
+    "static/media/pcamd.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/pcamd.69c53c64934e682a62de.webp",
+    "static/media/wolflogo.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/wolflogo.fbf2adcf41a623bc9aa4.webp",
+    "static/media/wolf_logo_big.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/wolf_logo_big.31243b0a23dbb6a949d5.webp",
+    "static/media/pcintel.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/pcintel.a5a08b21bea1aeee884a.webp",
+    "static/media/logo.webp": "/EGgames/Final-ReactJS.CoderHouse/static/media/logo.485a0cf687ed8ed870e9.webp",
+    "index.html": "/EGgames/Final-ReactJS.CoderHouse/index.html",
+    "main.cd411868.css.map": "/EGgames/Final-ReactJS.CoderHouse/static/css/main.cd411868.css.map",
+    "main.c4ad7eda.js.map": "/EGgames/Final-ReactJS.CoderHouse/static/js/main.c4ad7eda.js.map",
+    "787.a025d128.chunk.js.map": "/EGgames/Final-ReactJS.CoderHouse/static/js/787.a025d128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd411868.css",
+    "static/js/main.c4ad7eda.js"
+  ]
+}
